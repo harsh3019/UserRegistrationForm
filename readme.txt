@@ -17,3 +17,5 @@ by using "pip list" command
 
 14.now create crud opeation for image and other entry .we will use form module for crud operation 
 15. Also use random module for generating random number 4 digit 
+
+*********************************************************************************************************
